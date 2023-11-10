@@ -32,7 +32,7 @@
     "dependencies": {
         "arib-subtitle-timedmetadater": "4.0.9",
         "aribts": "2.1.12",
-        "axios": "0.24.0",
+        "axios": "1.6.0",
         "body-parser": "1.19.0",
         "cors": "2.8.5",
         "diskusage-ng": "1.0.2",
